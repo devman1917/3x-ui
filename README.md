@@ -372,3 +372,4 @@ XUI_BIN_FOLDER="bin" XUI_DB_FOLDER="/etc/x-ui" go build main.go
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/devman1917/3x-ui.svg)](https://starchart.cc/devman1917/3x-ui)
+test
